@@ -1,0 +1,55 @@
+# Flint bricks
+tile.notenoughbricks.flintBricks.name=Flint Bricks
+tile.notenoughbricks.flintBricks.desc=Stacked bricks of flint.
+
+# Iron bricks
+tile.notenoughbricks.ironBricks.name=Iron Bricks
+tile.notenoughbricks.ironBricks.desc=Stacked bricks of iron.
+
+# Olivine bricks
+tile.notenoughbricks.olivineBricks.name=Olivine Bricks
+tile.notenoughbricks.olivineBricks.desc=Stacked bricks of olivine.
+
+# Diamond bricks
+tile.notenoughbricks.diamondBricks.name=Diamond Bricks
+tile.notenoughbricks.diamondBricks.desc=Stacked bricks of diamond.
+
+# Steel bricks
+tile.notenoughbricks.steelBricks.name=Steel Bricks
+tile.notenoughbricks.steelBricks.desc=Stacked bricks of steel.
+
+# Obsidian bricks
+tile.notenoughbricks.obsidianBricks.name=Obsidian Bricks
+tile.notenoughbricks.obsidianBricks.desc=Stacked bricks of obsidian.
+
+# Quartz bricks
+tile.notenoughbricks.quartzBricks.name=Quartz Bricks
+tile.notenoughbricks.quartzBricks.desc=Stacked bricks of quartz.
+
+# Pumpkin bricks
+tile.notenoughbricks.pumpkinBricks.name=Pumpkin Bricks
+tile.notenoughbricks.pumpkinBricks.desc=Stacked bricks of pumpkin.
+
+# Soul sand bricks
+tile.notenoughbricks.soulSandBricks.name=Soul Sand Bricks
+tile.notenoughbricks.soulSandBricks.desc=Stacked bricks of soul Sand.
+
+# Netherrack bricks
+tile.notenoughbricks.netherrackBricks.name=Netherrack Bricks
+tile.notenoughbricks.netherrackBricks.desc=Stacked bricks of netherrack.
+
+# Nether coal bricks
+tile.notenoughbricks.netherCoalBricks.name=Nether Coal Bricks
+tile.notenoughbricks.netherCoalBricks.desc=Stacked bricks of nether coal.
+
+# Stone zigzag bricks
+tile.notenoughbricks.stoneZigzagBricks.name=Stone Zigzag Bricks
+tile.notenoughbricks.stoneZigzagBricks.desc=Stacked bricks with a zigzag pattern made of stone.
+
+# Funky limestone bricks
+tile.notenoughbricks.funkyLimestoneBricks.name=Funky Limestone Bricks
+tile.notenoughbricks.funkyLimestoneBricks.desc=Stacked bricks made of limestone with a funky pattern.
+
+# Clay pavers
+tile.notenoughbricks.clayPavers.name=Clay Pavers
+tile.notenoughbricks.clayPavers.desc=Stacked bricks made of clay with a smooth surface, ideal for creating paths and walkways.
